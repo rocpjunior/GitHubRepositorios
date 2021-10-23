@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 419562586,
+      "name": "CartaoDeVisitas",
+      "owner": {
+        "login": "rocpjunior",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35637328?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/rocpjunior/CartaoDeVisitas",
+      "description": "Um aplicativo aonde é possível criar um cartão de visitas, inserindo nome, redes sociais e cor de fundo do cartao, que foi desenvolvido nas aulas da Digital Innovation One"
+    },
+    {
+      "id": 410166378,
+      "name": "ListaContatosKotlin",
+      "owner": {
+        "login": "rocpjunior",
+        "avatar_url": "\"https://avatars.githubusercontent.com/u/35637328?v=4"
+      },
+      "html_url": "https://github.com/rocpjunior/ListaContatosKotlin",
+      "description": "Um aplicativo simples de criação e gerenciamento de contatos *Ainda em desenvolvimento*",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 382993260,
+      "name": "prjos",
+      "owner": {
+        "login": "rocpjunior",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35637328?v=4"
+      },
+      "html_url": "https://github.com/rocpjunior/prjos",
+      "description": "Projeto de um sistema de ordens de serviço desenvolvido em Java pelo NetBeans 8.0.2, durante as aulas de Desenvolvimento de Sistemas na Etec Mauá.",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 130179753,
+      "name": "TakeTrip",
+      "owner": {
+        "login": "rocpjunior",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35637328?v=4"
+      },
+      "html_url": "https://github.com/rocpjunior/TakeTrip",
+      "description": "Projeto de um site desenvolvido em grupo com HTML, CSS, JavaScript e Node.js para o evento \\\"Demoday\\\" realizado pelo programa \\\"Estação Hack from Facebook\\\" com a parceria da Mastertech.",
+      "stargazers_count": 0,
+      "language": "HTML"
+    }
+  ]
+}
